@@ -1,5 +1,4 @@
 # Reusable-Biomedical-Abstracts-Corpus
-## Curated Biomedical Abstracts Metadata & Labels (v1.0)
 
 **Dataset-Deduplicated · Corpus-Provenance-Verified · Class-Label-Taxonomy-Standardized**
 
