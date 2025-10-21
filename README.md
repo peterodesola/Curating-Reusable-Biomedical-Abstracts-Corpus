@@ -1,4 +1,4 @@
-# Reusable-Biomedical-Abstracts-Corpus
+# Curating Reusable-Biomedical-Abstracts-Corpus
 
 **Dataset-Deduplicated · Corpus-Provenance-Verified · Class-Label-Taxonomy-Standardized**
 
