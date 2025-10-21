@@ -138,9 +138,7 @@ Curated Biomedical Abstracts Metadata & Labels - Provenance-Verified, Deduplicat
 Zenodo. https://doi.org/10.5281/zenodo.17229456
 
 CODE
-Idris Babalola, Adewale Alex Adegoke, Peter Adebayo Odesola. (2025).
-Curated Biomedical Abstracts Metadata & Labels - Provenance-Verified, Deduplicated (v1.0) [Data set].
-Zenodo. https://doi.org/10.5281/zenodo.17229456
+Babalola, I., Adegoke, A., & Odesola, P. (2025). Curated Biomedical Abstracts Metadata and Labels-Provenance-Verified, Deduplicated (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17407830
 ```
 
 ---
