@@ -3,7 +3,7 @@
 **Dataset-Deduplicated · Corpus-Provenance-Verified · Class-Label-Taxonomy-Standardized**
 
 **Dataset DOI:** [10.5281/zenodo.17229456](https://doi.org/10.5281/zenodo.17229456)  
-**Code DOI / Repository:** [10.5281/zenodo.17407830](10.5281/zenodo.17407830) · [https://github.com/peterodesola/Curating-Reusable-Biomedical-Abstracts-Corpus](https://github.com/peterodesola/Curating-Reusable-Biomedical-Abstracts-Corpus)  
+**Code DOI / Repository:** [10.5281/zenodo.17407830](#10.5281/zenodo.17407830) · [https://github.com/peterodesola/Curating-Reusable-Biomedical-Abstracts-Corpus](https://github.com/peterodesola/Curating-Reusable-Biomedical-Abstracts-Corpus)  
 **License:** CC BY-SA 4.0  
 **Contact:** eidreiz01@gmail.com 
 
